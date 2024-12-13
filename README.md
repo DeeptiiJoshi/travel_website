@@ -1,4 +1,4 @@
-![vlad-ion-xyMY-DaJud8-unsplash](https://github.com/user-attachments/assets/d8b179f4-4424-4ae7-b0dd-79e126c23c9f)# Nourish Adventure Travel Website 🏔️
+# Nourish Adventure Travel Website 🏔️
 
 🛠️ Technologies Used
 - HTML
